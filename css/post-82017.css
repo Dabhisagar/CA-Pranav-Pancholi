@@ -3125,7 +3125,7 @@ body.rtl .elementor-82017 .elementor-element.elementor-element-a43f6a0 .elemento
     color: #009FFD;
     font-size: 20px;
     font-weight: 800;
-    line-height: 2em;
+    /* line-height: 2em; */
 }
 
 .elementor-82017 .elementor-element.elementor-element-360cb813 .elementor-counter-title {
@@ -5277,6 +5277,7 @@ body.rtl .elementor-82017 .elementor-element.elementor-element-63880318 .element
 
     .elementor-82017 .elementor-element.elementor-element-1b0d7e83>.elementor-widget-container {
         padding: 10px 10px 7px 10px;
+        height: 35px;
     }
 
     .elementor-82017 .elementor-element.elementor-element-32941b55>.elementor-element-populated>.elementor-widget-wrap {
@@ -5302,6 +5303,7 @@ body.rtl .elementor-82017 .elementor-element.elementor-element-63880318 .element
 
     .elementor-82017 .elementor-element.elementor-element-2c1f90f2>.elementor-widget-container {
         padding: 10px 10px 7px 10px;
+        height: 48px;
     }
 
     .elementor-82017 .elementor-element.elementor-element-1551d882>.elementor-element-populated {
@@ -6191,7 +6193,7 @@ body.rtl .elementor-82017 .elementor-element.elementor-element-63880318 .element
 
     .elementor-82017 .elementor-element.elementor-element-23cf7976 .elementor-heading-title {
         font-size: 28px;
-        line-height: 1px;
+        /* line-height: 1px; */
     }
 
     .elementor-82017 .elementor-element.elementor-element-23cf7976>.elementor-widget-container {
