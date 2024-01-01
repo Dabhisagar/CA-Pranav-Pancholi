@@ -4908,7 +4908,9 @@ body.rtl .elementor-82017 .elementor-element.elementor-element-63880318 .element
 .elementor-82017 .elementor-element.elementor-element-22c61c91 .elementor-button .elementor-align-icon-left {
     margin-right: 10px;
 }
-
+.a.elementor-button.elementor-button-link.elementor-size-sm.elementor-animation-shrink {
+    margin-right: 0 !important;
+}
 .elementor-82017 .elementor-element.elementor-element-22c61c91 .elementor-button {
     font-family: "Rubik";
     font-size: 17px;
